@@ -19,6 +19,8 @@ you previously created (also case sensitive).
 
 7. If everything has worked DV DotCounter should be in the Plugins menu.
 
+8. DV_DotCounter.java is the editable code for the plugin should improvements or changes be required.
+
 USAGE
 
 1. You will be prompted to Open DV Images. The plugin was written for 2 channel timelapse 
